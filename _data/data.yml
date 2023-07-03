@@ -7,54 +7,53 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: HyunGyu Baek
+    tagline: 고민을 담아내고 싶은 개발자 백현규입니다 🖐
+    avatar: https://hits.sh/github.com/silentsoft.svg?view=today-total&logo=github  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: baekhg102@gmail.com
+    timezone: Korea/Korea Standard Time
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: sambeak.github.io #do not add http://
+    # linkedin: 
+    # xing: 
+    github: sambeak
     telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    # gitlab:
+    # bitbucket:
+    # twitter: '@webjeda'
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
+    # pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+    # languages:
+    #   title: Languages
+    #   info:
+    #     - idiom: English
+    #       level: Native
 
-        - idiom: French
-          level: Professional
+    #     - idiom: French
+    #       level: Professional
 
-        - idiom: Spanish
-          level: Professional
+    #     - idiom: Spanish
+    #       level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
         - item: Cooking
           link:
 
+        # - item: Snowboarding
+        #   link:
+
+        # - item: Cooking
+        #   link:
+
 career-profile:
-    title: Career Profile
+    title: Introduce
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -170,11 +169,9 @@ certifications:
             Praesent venenatis erat non augue suscipit consectetur. 
         
 projects:
-    title: Projects
+    title: Side Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
       - title: Velocity
         link: "#hook"
@@ -197,67 +194,59 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title: OSS Contributions
+    title: Blog Posts
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: 🏰RESTful API
+        link: "https://sambeak.github.io/posts/restful-api"
+        tagline: "RESTful API : 웹 개발에서 필수적인 아키덱처 스타일"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: 🤝협업을 위한 완벽한 커밋 메시지 작성
+        link: "https://sambeak.github.io/posts/commit"
+        tagline: "커밋메시지의 중요성과 협업"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: 🚢 Docker 컨테이너 기술의 핵심
+        link: "https://sambeak.github.io/posts/docker"
+        tagline: "Docker란 무엇이며 컨테이너란 무엇인가"
 
 publications:
-    title: Publications
+    title: Military Service
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
     papers:
-      - title: The Art of Computer Programming
+      - title: 병장 만기 전역
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: 육군 28사단 수색대대
+        conference: 2012.01 - 2013.10
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: HTML5 & CSS
+        level: 95%
 
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: React
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Node.js
+        level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Python & Django
+        level: 98%
+
+      - name: Java & Spring & Spring boot
+        level: 98%
+
+      - name: CI/CD (Docker)
+        level: 98%
+
+      - name: Databases (MySQL)
+        level: 98%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Copyright ©  <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">HyunGyu Baek</a>
