@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/sambeak"
-footer_text: "Page design by Ankit Sultana"
+footer_text: "HyunGyu Baek"
 
 sass:
     style: compressed
@@ -17,8 +17,6 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Contact"
-   link: "contact"
+   link: ""
 
 remote_theme: ankitsultana/researcher@gem
