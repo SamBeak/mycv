@@ -1,6 +1,6 @@
 title: HyunGyu Baek
 url: "https://hyungyu.me"
-baseurl: "/mycv"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
