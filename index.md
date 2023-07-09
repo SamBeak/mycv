@@ -39,7 +39,7 @@ layout: default
 - [Nordicnest](https://github.com/sambeak/nordicnest_react): 📄 Clone project that have increased proficiency in HTML5, CSS, JavaScript and React
 - [Kream](https://github.com/sambeak/kream_react): : 📄 Team clone project that provide variable opportunities to improve skills such as web development, project management and collaboration
 - [Kurly](https://github.com/sambeak/kurly_react): : 📄 Clone Project that have increased proficiency in java, jsp, jquery
-- [Brando](https://github.com/sambeak/brando_js): : 📄 Clone Project that have increased proficiency in Response Web Design and JavaScript
+- [Brando](https://github.com/sambeak/brando_react): : 📄 Clone Project that have increased proficiency in Response Web Design and JavaScript
 
 ## posts
 - [ALL POSTS](https://sambeak.github.io)
